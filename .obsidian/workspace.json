@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#\u0000S\u0000J\u0000T\u0000U\u0000-\u00002\u00000\u00002\u00005\u0000-\u0000I\u0000C\u0000E\u00002\u00006\u00000\u00007\u0000",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
